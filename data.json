@@ -1,0 +1,129 @@
+{
+    "question": [
+        "Q1. What is the capital of Canada?",
+        "Q2. Which of these countries is not in Europe?",
+        "Q3. Who wrote the famous novel 'To Kill a Mockingbird'? ",
+        "Q4. What is the smallest country in the world by land area?",
+        "Q5. What is the chemical symbol for gold?",
+        "Q6. What is the capital of Japan?",
+        "Q7. Who painted the famous artwork 'The Starry Night'?",
+        "Q8. What is the largest ocean in the world?",
+        "Q9. Which planet in our solar system is known as the 'Red Planet'?",
+        "Q10. What is the largest country in the world by land area?",
+        "Q11. Who is the current Prime Minister of the United Kingdom?",
+        "Q12. Which of these animals is not a mammal?",
+        "Q13. Who invented the telephone?",
+        "Q14. What is the tallest mountain in the world?",
+        "Q15. Who is the current President of the United States?"
+    ],
+    "answer": [
+        1,
+        4,
+        1,
+        1,
+        4,
+        1,
+        2,
+        1,
+        2,
+        1,
+        1,
+        3,
+        1,
+        2,
+        1
+    ],
+    "options": [
+        [
+            "Ottawa",
+            "Toronto",
+            "Vancouver",
+            "Montrea"
+        ],
+        [
+            "Greece",
+            "Italy",
+            "Russia",
+            "Malaysia"
+        ],
+        [
+            "Harper Lee",
+            "J.K. Rowling",
+            "Ernest Hemingway",
+            "F. Scott Fitzgerald"
+        ],
+        [
+            "Vatican City",
+            "Monaco",
+            "San Marino",
+            "Liechtenstein"
+        ],
+        [
+            "Go",
+            "Gr",
+            "Gd",
+            "Au"
+        ],
+        [
+            "Tokyo",
+            "Kyoto",
+            "Osaka",
+            "Hiroshima"
+        ],
+        [
+            "Claude Monet",
+            "Vincent van Gogh",
+            "Pablo Picasso",
+            "Leonardo da Vinci"
+        ],
+        [
+            "Pacific Ocean",
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Arctic Ocean"
+        ],
+        [
+            "Venus",
+            "Mars",
+            "Jupiter",
+            "Saturn"
+        ],
+        [
+            "Russia",
+            "Canada",
+            "China",
+            "United States"
+        ],
+        [
+            "Boris Johnson",
+            "Theresa May",
+            "Tony Blair",
+            "David Cameron"
+        ],
+        [
+            "Dolphin",
+            "Kangaroo",
+            "Crocodile",
+            "Bat"
+        ],
+        [
+            "Alexander Graham Bell",
+            "Thomas Edison",
+            "Nikola Tesla",
+            "Benjamin Franklin"
+        ],
+        [
+            "Mount Kilimanjaro",
+            "Mount Everest",
+            "Mount Fuji",
+            "Mount McKinley"
+        ],
+        [
+            "Joe Biden",
+            "Donald Trump",
+            "Barack Obama",
+            "George W. Bush"
+        ]
+    ]
+    
+}
